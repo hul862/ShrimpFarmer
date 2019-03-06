@@ -1,4 +1,4 @@
-a solidity ^0.4.25; // solhint-disable-line
+solidity ^0.4.25; // solhint-disable-line
 
 
 
